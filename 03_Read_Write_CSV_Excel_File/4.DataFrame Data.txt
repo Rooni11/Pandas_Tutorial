@@ -1,0 +1,17 @@
+
+df_stocks = pd.DataFrame({
+    'tickers': ['GOOGL','WMT','MSFT'],
+    'price': [845,65,64],
+    'pe': [30,25,12]
+    'eps': [12.5,22.4,2.01]
+})
+
+
+
+
+df_weather = pd.DataFrame({
+    'day' : ['1/1/2017','1/2/2017','1/3/2017'],
+    'temperature' : [32,35,28],
+    'windspeed': [6,7,2],
+    'event' : ['Rain', 'Sunny', 'Snow']
+})
