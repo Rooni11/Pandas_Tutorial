@@ -1,0 +1,6 @@
+
+
+df4 = pd.DataFrame({
+    'score': ['exceptional','average','good', 'poor','average','exceptional'],
+    'student': ['rob','naya','roni','tom','radin','rukaiya']
+})
